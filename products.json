@@ -1,0 +1,39 @@
+[
+    {
+        "firstName": "John", 
+        "lastName": "Doe",
+         "role": "Doctor",
+          "description": "Experienced doctor specializing in medicine.",
+          "skills": "Diagnosis, treatment,Communication,Sketch",
+          "achievements": [{
+            "duration":"Jun2023-Present",
+            "details":"Published research papers, received awards for excellence in medicine"
+          }],
+          "educationalDetails": [{
+            "institute":"IIT Delhi",
+            "course":"Btech",
+            "percentage":"88%",
+            "period":"Jun2023-Feb2023"
+
+
+          }],
+          "experience":[{
+            "company":"JP Morgan-Investment Banker",
+            "duration":"Jun2023-Present",
+            "details":"conducted the client search for the best stock"
+          }],
+          "projects":[{
+            "name":"Zoom-Clone",
+            "role":"Full-Stack",
+            "time":"Jun2023-Dec2023"
+          }],
+          "emailid": "johndoe@example.com",
+          "gitLink": "https://github.com/johndoe",
+          "image": "https://example.com/johndoe.jpg",
+          "linkedin": "https://www.linkedin.com/in/johndoe",
+          "location": "New York, USA",
+          "phoneNumber": "123-456-7890",
+          "portfolio": "https://johndoeportfolio.com"
+
+ }
+]
